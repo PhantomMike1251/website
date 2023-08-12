@@ -1,0 +1,72 @@
+body{
+    margin: auto;
+    padding:30px 0;
+    max-width:1200px;
+    background: linear-gradient(#61767c, #3b5661 20%, #2c3d42);
+    font-family: "Tahoma", sans-serif;
+    font-size: 16px;
+    line-height: 2em;
+    color: whitesmoke;
+    text-size-adjust: 30%;
+}
+
+h1,h2,h3,h4,h5,h6{
+    margin: 40px 0;
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+}
+
+list{
+    line-height: 2.5em;
+    list-style;
+}
+
+.gen1{
+    text-align: center;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 30%
+}
+
+.garant p{
+    margin-top: 2em;
+    text-align: center;
+}
+
+.title{
+    font-size:24px;
+    text-align:center;
+}
+
+ul{
+    list-style;
+    column-count: 2;
+    column-gap:20px;
+}
+
+.comments img{
+    display: block;
+    margin:0 auto 0 auto;
+    max-width: 25%;
+    max-height: 25%;
+}
+
+.comments p{
+    padding: 20px 80px;
+    text-align: center;
+}
+
+td,th{
+    border: 1px solid;
+    text-align: center;
+    padding:10px;
+}
+
+.info{
+    text-align:center;
+}
